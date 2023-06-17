@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.yousefcontainer{
+    display: flex;
+    background-color: blueviolet;
+}
+.container{
+    margin: 20px;
+    display: flex;
+    gap: 20px;
+}
+.sous-container1{
+    gap: 40px;
+    margin-top: 30px;
+}    
+.grid-item{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+.carte2{
+    margin-top: 20px ;
+}
+.carte4{
+    margin-top: 20px;
+}
